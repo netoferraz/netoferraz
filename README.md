@@ -37,8 +37,6 @@
 
 ## ⚡ Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoferraz&layout=compact)](https://github.com/netoferraz/github-readme-stats)
-
 ![netoferraz github stats](https://github-readme-stats.vercel.app/api?username=netoferraz&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netoferraz" alt="netoferraz" /> </p>
