@@ -35,6 +35,10 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## ⚡ Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoferraz&layout=compact)](https://github.com/netoferraz/github-readme-stats)
+
 ![netoferraz github stats](https://github-readme-stats.vercel.app/api?username=netoferraz&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netoferraz" alt="netoferraz" /> </p>
