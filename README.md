@@ -4,7 +4,9 @@
 
 - 👷 Data Enginner.
 - I'm part of the [PyData Brasília](https://www.meetup.com/pt-BR/PyData-Brasilia/) staff.
-- You can check some of my work at 
+
+`You can check some of my work at` 
+
 - [EN] https://jungleboy.netlify.app/
 - [PT-BR] https://netoferraz.github.io/o-eu-analitico/ 
 
